@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "GALA"
 include ':demo'
 include ':matrix'
+include ':camera'
